@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575046654 source:h:\c_c++\tp2_(s)_poo_ex2\main.cpp
+	<iostream>
+	"Polynome_2D.h"
+
+1575046965 source:h:\c_c++\tp2_(s)_poo_ex2\src\polynome_2d.cpp
+	"Polynome_2D.h"
+	<math.h>
+	<iostream>
+
+1575045063 h:\c_c++\tp2_(s)_poo_ex2\include\polynome_2d.h
+
+1575047168 source:h:\c_c++\tp2_(s)_poo\tp2_(s)_poo_ex2\main.cpp
+	<iostream>
+	"Polynome_2D.h"
+
+1575045063 h:\c_c++\tp2_(s)_poo\tp2_(s)_poo_ex2\include\polynome_2d.h
+
+1575046965 source:h:\c_c++\tp2_(s)_poo\tp2_(s)_poo_ex2\src\polynome_2d.cpp
+	"Polynome_2D.h"
+	<math.h>
+	<iostream>
+

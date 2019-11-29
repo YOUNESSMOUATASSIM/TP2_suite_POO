@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575040529 source:h:\c_c++\tp2_(s)_poo_ex1\main.cpp
+	<iostream>
+	"DATE.h"
+
+1575044436 h:\c_c++\tp2_(s)_poo_ex1\include\date.h
+
+1575044446 source:h:\c_c++\tp2_(s)_poo_ex1\src\date.cpp
+	"DATE.h"
+	<DATE.h>
+	<iostream>
+
+1575061254 source:h:\c_c++\tp2_(s)_poo\tp2_(s)_poo_ex1\main.cpp
+	<iostream>
+	"DATE.h"
+
+1575061200 h:\c_c++\tp2_(s)_poo\tp2_(s)_poo_ex1\include\date.h
+
+1575044446 source:h:\c_c++\tp2_(s)_poo\tp2_(s)_poo_ex1\src\date.cpp
+	"DATE.h"
+	<DATE.h>
+	<iostream>
+
